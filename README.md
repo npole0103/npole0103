@@ -1,7 +1,7 @@
 ## Welcome to my GITHUB :star:
 
 ---
-### Introduction
+### Introduction :bust_in_silhouette:
 
 💬Name : **SU HEON KIM**
 
@@ -13,7 +13,7 @@
 
 💬Age : **23**
 
-💬Available languages : **C C++ Python HTML**
+💬Available languages : **C C++ Python JAVA HTML**
 
 💬Currently studying : **HTML CSS JAVASCRIPT SERVER DATABASE NETWORK**
 
