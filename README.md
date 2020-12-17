@@ -5,7 +5,7 @@
 
 💬Name : **SU HEON KIM**
 
-💬Birthday : **1998.05.28**
+💬Birth : **1998.05.28**
 
 💬Job : **Student**
 
@@ -13,7 +13,7 @@
 
 💬Age : **23**
 
-💬Available languages : **C C++ Python JAVA HTML**
+💬Available languages : **C C++ Python JAVA**
 
 💬Currently studying : **HTML CSS JAVASCRIPT SERVER DATABASE NETWORK**
 
@@ -23,14 +23,14 @@
 
 💬Email : **npole0103@naver.com**
 
-💬Website : [Instagram](http://instagram.com/su_honey_98) [Solved.ac](http://solved.ac)
+💬Website : [Instagram](http://instagram.com/su_honey_98) [Solved.ac](http://solved.ac/npole0103)
 
 ---
 ### My GITHUB Status :book:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=npole0103&show_icons=true)
 
 ---
-**😄Thank you for watching MY PROFILE😄**
+## **😄Thank you for watching MY PROFILE😄**
 
 ---
 <!--
