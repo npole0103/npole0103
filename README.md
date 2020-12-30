@@ -1,9 +1,9 @@
-## Welcome to my GITHUB :star:
+# Welcome to my GITHUB :star:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnpole0103&count_bg=%2318E539&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://github.com/npole0103)
 
 ---
-### Introduction :bust_in_silhouette:
+## Introduction :bust_in_silhouette:
 
 💬Name : **SU HEON KIM**
 
@@ -28,6 +28,7 @@
 💬Website : [Instagram](http://instagram.com/su_honey_98) [Solved.ac](http://solved.ac/npole0103)
 
 ---
+## Brief profile by year 📅
 ### 2017
 
 *17.02.09.* **진주 대아고등학교 졸업**
@@ -62,7 +63,7 @@
 
 *19.04.30.* **Dean's List 선정 학업우수상 수상**
 
-*19.08.30* **정보처리산업기사 필기 합격**
+*19.08.30.* **정보처리산업기사 필기 합격**
 
 *19.11.--.* **중대 위병수호자 엑셀 개발 : 군생활 계산기 / 중대인명부 관리**
 
@@ -100,7 +101,7 @@
 
 
 ---
-### Goal by 2022 📋
+## Goal by 2022 📋
 
 - [ ] **개발 진로 정하기**
 - [ ] **전체 평균 학점 4.0 이상 / 전공 4.2 이상**
@@ -109,17 +110,17 @@
 - [ ] **토익 / 오픽 응시**
 - [ ] **교직과정 수료 및 교원자격증 취득**
 - [ ] **정보처리기사 취득**
-- [ ] **프로젝트 3개 이상**
+- [ ] **대규모 프로젝트 3개 이상**
 - [ ] **공모전 입상하기**
 - [ ] **책 10권 이상 읽기**
 - [ ] **2022년 12월에 이 글 읽고 뿌듯해하기**
 
 ---
-### My GITHUB Status :book:
+## My GITHUB Status :book:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=npole0103&show_icons=true)
 
 ---
-## **😄Thank you for watching MY PROFILE😄**
+# **😄Thank you for watching MY PROFILE😄**
 
 ---
 <!--
