@@ -80,7 +80,7 @@
 
 *2020.12.23 ~ **JavaScript 기초 학습 및 jQuery Bootstrap 실습 진행중**
 
-*2020.12.30.* **[Solved.ac](solved.ac/npole0103) Class 1 은장 달성**
+*2020.12.30.* **[Solved.ac](https://solved.ac/npole0103) Class 1 은장 달성**
 
 ### 2021
 
