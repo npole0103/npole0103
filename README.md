@@ -121,7 +121,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=npole0103&show_icons=true)
 
 ---
-# **😄Thank you for watching MY PROFILE😄**
+### **😄Thank you for watching MY PROFILE😄**
 
 ---
 <!--
