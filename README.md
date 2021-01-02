@@ -97,7 +97,7 @@
 
 ### 2021
 
-**To be continue!**
+*21.01.03.* **[Solved.ac](https://solved.ac/npole0103) Class 2 은장 달성**
 
 
 ---
@@ -108,6 +108,7 @@
 - [ ] **TOPCIT 응시**
 - [ ] **BoB 지원 & 수료**
 - [ ] **Software Maestro 지원 & 수료**
+- [ ] **Baekjoon Class 4 은장**
 - [ ] **토익 / 오픽 응시**
 - [ ] **교직과정 수료 및 교원자격증 취득**
 - [ ] **정보처리기사 취득**
