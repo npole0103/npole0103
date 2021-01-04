@@ -91,7 +91,7 @@
 
 *20.12.18. ~ 20.12.22.* **CSS 기초 학습 및 웹페이지 제작 실습 [README.md](https://github.com/npole0103/cssStudy)**
 
-*20.12.23. ~ ing* **JavaScript 기초 학습 및 jQuery Bootstrap 라이브러리  진행중 [README.md](https://github.com/npole0103/jsStudy)**
+*20.12.23. ~ ing* **JavaScript 기초 학습 및 jQuery Bootstrap 라이브러리 실습 진행중 [README.md](https://github.com/npole0103/jsStudy)**
 
 *20.12.30.* **[Solved.ac](https://solved.ac/npole0103) Class 1 은장 달성**
 
