@@ -11,7 +11,7 @@
 
 💬Job : **Student**
 
-💬University : **KwangWoon University in Seoul, South Korea**
+💬Education : **Undergraduate Student in School of Software, Kwangwoon University**
 
 💬Age : **23**
 
