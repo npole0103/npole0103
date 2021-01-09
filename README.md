@@ -13,7 +13,7 @@
 
 💬Education : **Undergraduate Student in School of Software, Kwangwoon University**
 
-💬Age : **23**
+💬Age : **24**
 
 💬Available languages : **C C++ Python JAVA**
 
