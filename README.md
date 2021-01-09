@@ -28,7 +28,7 @@
 💬Website : [Instagram](http://instagram.com/su_honey_98) [Solved.ac](http://solved.ac/npole0103)
 
 ---
-## Brief profile in major by year 📅
+## Breif major profile by year 📅
 ### 2017
 
 *17.02.09.* **진주 대아고등학교 졸업**
