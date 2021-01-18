@@ -101,7 +101,7 @@
 
 *21.01.03.* **[Solved.ac](https://solved.ac/npole0103) Class 2 은장 달성**
 
-*21.01.19.* **PHP 기초 학습**
+*21.01.18.* **PHP 기초 학습** [README.md](https://github.com/npole0103/phpStudy)
 
 ---
 ## Goal by 2022 📋
