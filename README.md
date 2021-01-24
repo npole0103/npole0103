@@ -17,7 +17,7 @@
 
 💬Available languages : **C C++ Python JAVA**
 
-💬Currently studying : **HTML CSS JAVASCRIPT SERVER DATABASE NETWORK**
+💬Currently studying : **HTML CSS JAVASCRIPT PHP SERVER DATABASE NETWORK**
 
 💬Hobby : **Cook(Western food) Jogging**
 
