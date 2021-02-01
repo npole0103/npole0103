@@ -105,6 +105,8 @@
 
 *21.01.26 ~ 21.01.30.* **Database MySQL 기초 학습 [README.md](https://github.com/npole0103/mysqlStudy)**
 
+MySQL + PHP 백엔드 학습
+
 ---
 ## Goal by 2022 📋
 
