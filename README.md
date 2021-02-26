@@ -105,7 +105,7 @@
 
 *21.01.26 ~ 21.01.30.* **Database MySQL 기초 학습 [README.md](https://github.com/npole0103/mysqlStudy)**
 
-*21.02.03. ~ ing* **MySQL PHP 연동 백엔드 학습 [README.md](https://github.com/npole0103/phpMysqlStudy)**
+*21.02.03. ~ 21.02.25.* **MySQL PHP 연동 백엔드 학습 [README.md](https://github.com/npole0103/phpMysqlStudy)**
 
 *21.02.15. ~ 21.02.19.* **광운대학교 소프트웨어융합대학 SW예비학교 Tutor**
 
