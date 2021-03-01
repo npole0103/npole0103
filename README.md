@@ -134,7 +134,7 @@
 
 ---
 ## Top Languages :chart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npole0103&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npole0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### **😄Thank you for watching MY PROFILE😄**
