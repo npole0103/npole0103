@@ -111,6 +111,9 @@
 
 *21.02.27. ~ 21.03.01* **Ajax 학습 [README.md](https://github.com/npole0103/ajaxStudy)**
 
+*21.03.01. ~ ing* **C# 콘솔앱 공부 [README.md](https://github.com/npole0103/cSharpStudy)**
+
+
 ---
 ## Goal by 2022 📋
 
