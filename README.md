@@ -143,6 +143,12 @@ matkok Project [README.md](https://github.com/npole0103/matkok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npole0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+## Solved.ac 🥇
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=npole0103 )](https://solved.ac/npole0103/)
+
+---
+
 ### **😄Thank you for watching MY PROFILE😄**
 
 ---
