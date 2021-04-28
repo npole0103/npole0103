@@ -103,7 +103,7 @@
 
 *21.01.18. ~ 21.01.25.* **PHP 기초 학습 [README.md](https://github.com/npole0103/phpStudy)**
 
-*21.01.26 ~ 21.01.30.* **Database MySQL 기초 학습 [README.md](https://github.com/npole0103/mysqlStudy)**
+*21.01.26 ~ 21.01.30.* **Database MySQL 학습 [README.md](https://github.com/npole0103/mysqlStudy)**
 
 *21.02.03. ~ 21.02.25.* **MySQL PHP 연동 백엔드 학습 [README.md](https://github.com/npole0103/phpMysqlStudy)**
 
