@@ -17,11 +17,7 @@
 
 💬Available languages : **C C++ Python JAVA**
 
-💬Currently studying : **HTML CSS JAVASCRIPT PHP SERVER DATABASE NETWORK**
-
-💬Hobby : **Cook(Western food) Jogging**
-
-💬Favorite : **Visiting and exploring popular restaurant**
+💬Currently studying : **HTML CSS JAVASCRIPT PHP SERVER DATABASE NETWORK C#**
 
 💬Email : **npole0103@naver.com**
 
@@ -115,7 +111,7 @@
 
 *21.03.22. ~ ing* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
 
-matkok Project [README.md](https://github.com/npole0103/matkok)
+방학 중 진행 예정 matkok Project [README.md](https://github.com/npole0103/matkok)
 
 ---
 ## Goal by 2022 📋
