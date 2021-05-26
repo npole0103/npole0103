@@ -113,12 +113,14 @@
 
 방학 중 진행 예정 matkok Project [README.md](https://github.com/npole0103/matkok)
 
+BoB ?
+
 ---
 ## Goal by 2022 📋
 
 - [x] **개발 진로 정하기**
 - [ ] **전체 평균 학점 4.0 이상 / 전공 4.2 이상**
-- [ ] **TOPCIT 응시**
+- [x] **TOPCIT 응시**
 - [ ] **BoB 지원 & 수료**
 - [x] **Software Maestro 지원 & 수료**
 - [ ] **Baekjoon Class 4 은장**
