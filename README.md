@@ -15,9 +15,9 @@
 
 💬Age : **24**
 
-💬Available languages : **C C++ Python JAVA**
+💬Available languages : **C C++ Python JAVA C#**
 
-💬Currently studying : **HTML CSS JAVASCRIPT PHP SERVER DATABASE NETWORK C#**
+💬Studying : **HTML CSS JAVASCRIPT PHP SERVER DATABASE NETWORK C#**
 
 💬Email : **npole0103@naver.com**
 
@@ -113,7 +113,7 @@
 
 방학 중 진행 예정 matkok Project [README.md](https://github.com/npole0103/matkok)
 
-BoB ?
+BoB ??
 
 ---
 ## Goal by 2022 📋
