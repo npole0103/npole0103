@@ -111,8 +111,15 @@
 
 *21.03.22. ~ ing* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
 
-방학 중 진행 예정 matkok Project [README.md](https://github.com/npole0103/matkok)
+방학 중 진행 예정
 
+matkok Project [README.md](https://github.com/npole0103/matkok)
+
+WebHacking
+
+클라우드, Doker, 쿠버네티스
+
+대외활동 프로젝트
 
 ---
 ## Goal by 2022 📋
