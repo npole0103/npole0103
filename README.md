@@ -105,15 +105,15 @@
 
 *21.02.15. ~ 21.02.19.* **광운대학교 소프트웨어융합대학 2021 겨울학기 SW예비학교 Tutor**
 
-*21.02.27. ~ 21.03.01* **Ajax 학습 [README.md](https://github.com/npole0103/ajaxStudy)**
+*21.02.27. ~ 21.03.01.* **Ajax 학습 [README.md](https://github.com/npole0103/ajaxStudy)**
 
-*21.03.01. ~ 21.06.02* **C# Console App & WinForm 공부 [README.md](https://github.com/npole0103/cSharpStudy)**
+*21.03.01. ~ 21.06.02.* **C# Console App & WinForm 공부 [README.md](https://github.com/npole0103/cSharpStudy)**
 
-*21.03.01. ~ 21.06.27* **C Operation System [README.md](https://github.com/npole0103/osStudy)**
+*21.03.01. ~ 21.06.27.* **C Operation System [README.md](https://github.com/npole0103/osStudy)**
 
-*21.03.22. ~ 21.06.14* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
+*21.03.22. ~ 21.06.14.* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
 
-*21.07.02. ~ ing* **차세대 보안 리더 Best of the Best 10th**
+*21.07.02. ~ ing.* **차세대 보안 리더 Best of the Best 10th**
 
 ---
 
