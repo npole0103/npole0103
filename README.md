@@ -107,19 +107,25 @@
 
 *21.02.27. ~ 21.03.01* **Ajax 학습 [README.md](https://github.com/npole0103/ajaxStudy)**
 
-*21.03.01. ~ ing* **C# Console App & WinForm 공부 [README.md](https://github.com/npole0103/cSharpStudy)**
+*21.03.01. ~ 21.06.02* **C# Console App & WinForm 공부 [README.md](https://github.com/npole0103/cSharpStudy)**
 
-*21.03.22. ~ ing* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
+*21.03.01. ~ 21.06.27* **C Operation System [README.md](https://github.com/npole0103/osStudy)**
 
-방학 중 진행 예정
+*21.03.22. ~ 21.06.14* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
+
+*21.07.02. ~ ing* **차세대 보안 리더 Best of the Best 10th**
+
+---
+
+진행 예정
 
 matkok Project [README.md](https://github.com/npole0103/matkok)
+
+산학연계 SW프로젝트
 
 WebHacking
 
 클라우드, Doker, 쿠버네티스
-
-대외활동 프로젝트
 
 ---
 ## Goal by 2022 📋
