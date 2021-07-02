@@ -113,7 +113,7 @@
 
 *21.03.22. ~ 21.06.14.* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
 
-*21.07.02. ~ ing.* **차세대 보안 리더 Best of the Best 10th 보안제품개발 트랙 **
+*21.07.02. ~ ing.* **차세대 보안 리더 Best of the Best 10th 보안제품개발 트랙 교육생**
 
 ---
 
