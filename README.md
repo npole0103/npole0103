@@ -115,6 +115,8 @@
 
 *21.07.02. ~ ing.* **차세대 보안 리더 Best of the Best 10th 보안제품개발 트랙 교육생**
 
+*21.07.05. ~ ing* **Node.js 기초 공부 [README.md](https://github.com/npole0103/nodejsStudy)**
+
 ---
 
 진행 예정
