@@ -15,9 +15,9 @@
 
 💬Age : **24**
 
-💬Available languages : **C C++ Python JAVA C#**
+💬Languages : **C C++ C# Python JAVA**
 
-💬Studying : **HTML CSS JAVASCRIPT PHP SERVER DATABASE NETWORK C#**
+💬Studying : **Node.js DataBase Cloud Docker**
 
 💬Email : **npole0103@naver.com**
 
@@ -119,15 +119,11 @@
 
 ---
 
-진행 예정
-
-matkok Project [README.md](https://github.com/npole0103/matkok)
-
-산학연계 SW프로젝트
-
-WebHacking
-
-클라우드, Doker, 쿠버네티스
+*진행 예정*
+- matkok
+- 산학연계 SW프로젝트
+- WebHacking
+- 클라우드, Doker, 쿠버네티스
 
 ---
 ## Goal by 2022 📋
