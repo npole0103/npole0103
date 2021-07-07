@@ -121,7 +121,7 @@
 
 *진행 예정*
 - matkok
-- 산학연계 SW프로젝트
+- 산학연계 SW프로젝트 : **전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
 - WebHacking
 - 클라우드, Doker, 쿠버네티스
 
