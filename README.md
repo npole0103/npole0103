@@ -121,11 +121,12 @@
 
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 
+*--.--.--. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
+
 ---
 
 *진행 예정*
 - matkok
-- 산학연계 SW프로젝트 : **전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
 - WebHacking
 - 클라우드, Doker, 쿠버네티스
 
@@ -133,7 +134,7 @@
 ## Goal by 2022 📋
 
 - [x] **개발 진로 정하기**
-- [ ] **전체 평균 학점 4.0 이상 / 전공 4.2 이상**
+- [x] **전체 평균 학점 4.0 이상 / 전공 4.2 이상**
 - [x] **TOPCIT 응시**
 - [x] **BoB 지원 & 수료**
 - [x] **Software Maestro 지원 & 수료**
