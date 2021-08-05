@@ -117,13 +117,13 @@
 
 *21.07.05. ~ 21.07.11* **Node.js 기초 공부 [README.md](https://github.com/npole0103/nodejsStudy)**
 
-*21.07.13. ~ ing* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
+*21.07.13. ~ 21.08.06* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
+
+*21.08.10. ~ ing* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WhireShark) 패킷 분석 툴 만들기**
 
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 
 *--.--.--. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
-
-*--.--.--. ~ ing* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥 WhireShark 클론 코딩**
 
 ---
 
