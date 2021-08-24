@@ -119,7 +119,7 @@
 
 *21.07.13. ~ 21.08.06* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
 
-*21.08.10. ~ ing* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WhireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
+*21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WhireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 
