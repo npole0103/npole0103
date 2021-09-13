@@ -21,7 +21,7 @@
 
 💬Email : **npole0103@naver.com**
 
-💬Website : [Instagram](http://instagram.com/su_honey_98) [Solved.ac](http://solved.ac/npole0103)
+💬Website : [Instagram](http://instagram.com/ssu.__.hxxn_) [Solved.ac](http://solved.ac/npole0103)
 
 ---
 ## Breif major profile by year 📅
@@ -121,18 +121,16 @@
 
 *21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WhireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
+*21.09.04. ~ ing* **BoB 프로젝트 : AWS 클라우드 IAM 통합 관리 솔루션**
+
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 
 *--.--.--. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
-
-클라우드 IAM
-
 ---
 
 *진행 예정*
 - matkok
 - WebHacking
-- 클라우드, Doker, 쿠버네티스
 
 ---
 ## Goal by 2022 📋
