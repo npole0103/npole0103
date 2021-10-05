@@ -113,7 +113,7 @@
 
 *21.03.22. ~ 21.06.14.* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
 
-*21.07.02. ~ ing.* **차세대 보안 리더 Best of the Best 10th 보안제품개발 트랙 교육생**
+*21.07.02. ~ ing.* **한국정보기술연구원 차세대 보안 리더 양성프로그램 Best of the Best 10th 보안제품개발 트랙 교육생**
 
 *21.07.05. ~ 21.07.11* **Node.js 기초 공부 [README.md](https://github.com/npole0103/nodejsStudy)**
 
@@ -123,13 +123,13 @@
 
 *21.09.04. ~ ing* **BoB 프로젝트 : AWS 클라우드 IAM 통합 관리 솔루션**
 
+*21.10.15. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
+
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 
-*--.--.--. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
 ---
 
 *진행 예정*
-- matkok
 - WebHacking
 
 ---
