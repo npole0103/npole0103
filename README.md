@@ -15,9 +15,20 @@
 
 💬Age : **24**
 
-💬Languages : **C C++ C# Python JAVA**
+💬Languages : 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<br>
 
-💬Studying : **Node.js DataBase Cloud Docker**
+💬Studying :
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-DD4B39?style=flat-square&logo=JAVA&logoColor=white"/></a>
+![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
+<br>
 
 💬Email : **npole0103@naver.com**
 
@@ -119,7 +130,7 @@
 
 *21.07.13. ~ 21.08.06* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
 
-*21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WhireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
+*21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
 *21.09.04. ~ ing* **BoB 프로젝트 : AWS 클라우드 IAM 통합 관리 솔루션**
 
@@ -131,6 +142,8 @@
 
 *진행 예정*
 - WebHacking
+- Algorithm
+- OPIC
 
 ---
 ## Goal by 2022 📋
