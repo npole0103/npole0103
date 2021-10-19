@@ -144,6 +144,8 @@
 - WebHacking
 - Algorithm
 - OPIC
+- Design Patterns
+- Android
 
 ---
 ## Goal by 2022 📋
