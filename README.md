@@ -140,6 +140,8 @@
 
 *21.10.15. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
 
+*22.01.03. ~ 22.01.07.* **광운대학교 소프트웨어융합대학 2022년도 겨울SW학교 Tutor**
+
 <!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 ---
