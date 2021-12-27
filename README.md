@@ -13,7 +13,7 @@
 
 💬Education : **Undergraduate Student in School of Software, Kwangwoon University**
 
-💬Age : **24**
+💬Age : **25**
 
 💬Languages : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -132,22 +132,24 @@
 
 *21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
-*21.09.04. ~ ing* **BoB 프로젝트 : AWS 클라우드 IAM 통합 관리 솔루션**
+*21.09.01. ~ 21.12.15* **Java Design Pattern 공부 [README.md](https://github.com/npole0103/designPattern)**
+
+*21.09.01. ~ 21.12.15* **Java Android 공부 [README.md](https://github.com/npole0103/androidStudy)**
+
+*21.09.04. ~ 21.12.18* **BoB 프로젝트 : TypeScript 클라우드 보안 솔루션(권한 관리) - 최소 권한 원칙과 기본 보안 수칙을 기반으로 안전한 IAM 운영 및 관리를 돕는 플랫폼**
 
 *21.10.15. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
 
+<!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
-
 ---
-
 *진행 예정*
 - WebHacking
 - Algorithm
-- OPIC
-- Design Patterns
-- Android
+-->
 
 ---
+
 ## Goal by 2022 📋
 
 - [x] **개발 진로 정하기**
