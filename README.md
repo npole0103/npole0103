@@ -146,6 +146,8 @@
 
 *22.01.03. ~ 22.01.07.* **광운대학교 소프트웨어융합대학 2022년도 겨울SW학교 Tutor**
 
+*21.01.03.* **[Solved.ac](https://solved.ac/npole0103) GOLD 달성**
+
 <!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
 ---
