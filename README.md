@@ -130,6 +130,8 @@
 
 *21.07.13. ~ 21.08.06* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
 
+*21.07.13.* **소프트웨어학부 학과 차석**
+
 *21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
 *21.09.01. ~ 21.12.15* **Java Design Pattern 공부 [README.md](https://github.com/npole0103/designPattern)**
@@ -147,6 +149,8 @@
 *22.01.03. ~ 22.01.07.* **광운대학교 소프트웨어융합대학 2022년도 겨울SW학교 Tutor**
 
 *21.01.03.* **[Solved.ac](https://solved.ac/npole0103) GOLD 달성**
+
+*22.01.12.* **소프트웨어학부 학과 수석**
 
 <!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
