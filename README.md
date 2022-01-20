@@ -130,7 +130,7 @@
 
 *21.07.13. ~ 21.08.06* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
 
-*21.07.13.* **소프트웨어학부 학과 차석**
+*21.07.13.* **2021-1 소프트웨어학부 학과 차석**
 
 *21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
@@ -150,7 +150,7 @@
 
 *21.01.03.* **[Solved.ac](https://solved.ac/npole0103) GOLD 달성**
 
-*22.01.12.* **소프트웨어학부 학과 수석**
+*22.01.12.* **2021-2 소프트웨어학부 학과 수석**
 
 <!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
