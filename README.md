@@ -30,6 +30,10 @@
 ![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
 <br>
 
+💬Interests :
+**Backend**
+**Cloud**
+
 💬Email : **npole0103@naver.com**
 
 💬Website : [Instagram](http://instagram.com/ssu.__.hxxn_) [Solved.ac](http://solved.ac/npole0103)
