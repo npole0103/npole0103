@@ -47,6 +47,10 @@
 <img src="https://img.shields.io/badge/Anroid Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
 
+####  [ Team Collaboration Tool ]
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+
 💬Interests :  
 * **Back-End**  
 * **Amazon AWS**  
