@@ -150,21 +150,21 @@
 
 *21.03.22. ~ 21.06.14.* **C++ Algorithm 공부 [README.md](https://github.com/npole0103/algoStudy)**
 
-*21.07.02. ~ ing.* **한국정보기술연구원 차세대 보안 리더 양성프로그램 Best of the Best 10th 보안제품개발 트랙 교육생**
+*21.07.02. ~ 22.03.31.* **한국정보기술연구원 차세대 보안 리더 양성프로그램 Best of the Best 10th 보안제품개발 트랙 교육생**
 
-*21.07.05. ~ 21.07.11* **Node.js 기초 공부 [README.md](https://github.com/npole0103/nodejsStudy)**
+*21.07.05. ~ 21.07.11.* **Node.js 기초 공부 [README.md](https://github.com/npole0103/nodejsStudy)**
 
-*21.07.13. ~ 21.08.06* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
+*21.07.13. ~ 21.08.06.* **Express 기초 공부 [README.md](https://github.com/npole0103/expressStudy)**
 
 *21.07.13.* **2021-1 소프트웨어학부 학과 차석**
 
-*21.08.10. ~ 21.08.22* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
+*21.08.10. ~ 21.08.22.* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
-*21.09.01. ~ 21.12.15* **Java Design Pattern 공부 [README.md](https://github.com/npole0103/designPattern)**
+*21.09.01. ~ 21.12.15.* **Java Design Pattern 공부 [README.md](https://github.com/npole0103/designPattern)**
 
-*21.09.01. ~ 21.12.15* **Java Android 공부 [README.md](https://github.com/npole0103/androidStudy)**
+*21.09.01. ~ 21.12.15.* **Java Android 공부 [README.md](https://github.com/npole0103/androidStudy)**
 
-*21.09.04. ~ 21.12.18* **BoB 프로젝트 : TypeScript 클라우드 보안 솔루션(권한 관리) - 최소 권한 원칙과 기본 보안 수칙을 기반으로 안전한 IAM 운영 및 관리를 돕는 플랫폼**
+*21.09.04. ~ 21.12.18.* **BoB 프로젝트 : TypeScript 클라우드 보안 솔루션(권한 관리) - 최소 권한 원칙과 기본 보안 수칙을 기반으로 안전한 IAM 운영 및 관리를 돕는 플랫폼**
 
 *21.10.15. ~ ing* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축**
 
@@ -177,6 +177,10 @@
 *22.01.03.* **[Solved.ac](https://solved.ac/npole0103) GOLD 달성**
 
 *22.01.12.* **2021-2 소프트웨어학부 학과 수석**
+
+*22.03.23.* **정보처리기사 필기 합격**
+
+*22.04.04. ~ 22.04.29.* **광운인공지능고등학교 교생실습생 정보 교과**
 
 <!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
