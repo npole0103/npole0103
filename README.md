@@ -166,7 +166,7 @@
 
 *21.09.04. ~ 21.12.18.* **BoB 프로젝트 : TypeScript 클라우드 보안 솔루션(권한 관리) - 최소 권한 원칙과 기본 보안 수칙을 기반으로 안전한 IAM 운영 및 관리를 돕는 플랫폼**
 
-*21.10.15. ~ 22.05.26* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축** [README.md](https://github.com/sofAware/slas)**
+*21.10.15. ~ 22.05.26* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축 [README.md](https://github.com/sofAware/slas)**
 
 ### 2022
 
