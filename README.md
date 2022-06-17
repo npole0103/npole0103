@@ -17,6 +17,8 @@
 
 💬Teck Stack : 
 
+<div align=center>
+
 #### [ Language ]
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -31,15 +33,17 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
 
+#### [ Back-End ]
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+
 #### [ etc ]
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
 #### [ IDE ]
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
@@ -50,6 +54,7 @@
 ####  [ Team Collaboration Tool ]
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+</div>
 
 💬Interests :  
 * **Back-End**  
@@ -61,74 +66,26 @@
 💬Website : [Instagram](http://instagram.com/ssu.__.hxxn_) [Solved.ac](http://solved.ac/npole0103)
 
 ---
-## Breif major profile by year 📅
-### 2017
+## BRIEF HISTORY BY YEAR 📅
+### 2022
 
-*17.02.09.* **진주 대아고등학교 졸업**
+*22.01.01. ~ 22.03.24.* **Java Spring 공부**
 
-*17.03.02.* **광운대학교 소프트웨어학부 입학**
+*22.01.03. ~ 22.01.07.* **광운대학교 소프트웨어융합대학 2022년도 겨울SW학교 Tutor**
 
-*17.03.02. ~ 17.12.31.* **제1대 소프트웨어학부 학생회 Hash 홍보국원**
+*22.01.03.* **[Solved.ac](https://solved.ac/npole0103) GOLD 달성**
 
-*17.06.22.* **세종대학교 정보보호와 보안의 기초 이수**
+*22.01.12.* **2021-2 소프트웨어학부 학과 수석**
 
-*17.09.08.* **광운대학교 교직과정 예비신청**
+*22.03.23.* **2022년 정기 기사 1회 정보처리기사 필기 합격**
 
-### 2018
+*22.04.04. ~ 22.04.29.* **광운인공지능고등학교 교생실습생(정보·컴퓨터)**
 
-*18.01.01. ~ 18.12.31.* **제2대 소프트웨어융합대학 학생회 For 기획국원**
+*22.05.02.* **2022년 상반기 SW포트폴리오 경진대회 대상 수상**
 
-*18.04.11.* **정보처리기능사 취득**
+*22.06.17.* **2022년 정기 기사 1회 정보처리기사 취득(실기 합격)**
 
-*18.05.02. ~ 18.07.11.* **한국과학창의재단 주관 알락달락 - 중랑 중흥초등학교 팀장**
-
-*18.05.25. ~ 18.10.24.* **광운대학교 총동문회 사무국원**
-
-*18.07.25. ~ 18.07.27.* **한국과학창의재단 주관 상반기 쏙쏙캠프 - 오산 원당초등학교 팀원**
-
-*18.08.16. ~ 18.10.31.* **정보통신산업진흥원 주관 2018 공개 SW 컨트리뷰톤 수료**
-
-### 2019
-
-*19.01.02. ~ 19.01.04.* **한국과학창의재단 주관 하반기 쏙쏙캠프 - 파주 운정초등학교 팀장**
-
-*19.02.20.* **광운대학교 교직과정 본신청 이수예정자 확정**
-
-*19.04.22.* **대한민국 육군 제9보병사단 백마신교대 입대**
-
-*19.04.30.* **Dean's List 선정 학업우수상 수상**
-
-*19.08.30.* **정보처리산업기사 필기 합격**
-
-*19.11.--.* **중대 위병수호자 엑셀 개발 : 군생활 계산기 / 중대인명부 관리**
-
-### 2020
-
-*20.02.--.* **중대 상벌점 엑셀 개발 : 월간 주간 상벌점 / 상벌점 사유 기록란 추가 / 대대 상벌점 위원회용 시트**
-
-*20.04.--.* **중대 위병수호자 엑셀 유지보수 : 군생활 단축에 따른 계급/입대일 별 자동 호봉 계산기 기능 추가**
-
-*20.05.--.* **중대 당직수호자 엑셀 유지보수 : 11생활관 추가 / 군생활 계산기 및 총기연명부 수식 추가**
-
-*20.06.--.* **중대 위병수호자 엑셀 유지보수 : 급양 월간표준식단 파일 크롤링 -> 오늘의 메뉴 조식 중식 석식 기능 추가 / 조기전역 계산기 추가**
-
-*20.07.29.* **대대 급양관리 시스템 엑셀 VBA프로그래밍 유지보수 : 1군수여단 급양 파일 크롤링 -> 표준 식품 데이터로 가공 및 표준화 -> 대대 월간/주간 배식량 및 Kcal 계산**
-
-*20.10.05.(20.11.22.)* **대한민국 육군 병장 만기 전역**
-
-*20.12.08.* **Github 개념 및 명령어 학습**
-
-*20.12.09.* **Markdown 언어 학습 [README.md](https://github.com/npole0103/markdownDocs)** 
-
-*20.12.10. ~ 20.12.13.* **snakeGame 프로젝트 [README.md](https://github.com/npole0103/snakeGame)**
-
-*20.12.14. ~ 20.12.17.* **HTML 기초 학습 [README.md](https://github.com/npole0103/htmlStudy)**
-
-*20.12.18. ~ 20.12.22.* **CSS 기초 학습 및 웹페이지 제작 실습 [README.md](https://github.com/npole0103/cssStudy)**
-
-*20.12.23. ~ 21.01.11.* **JavaScript 기초 학습 및 jQuery Bootstrap 라이브러리 실습 [README.md](https://github.com/npole0103/jsStudy)**
-
-*20.12.30.* **[Solved.ac](https://solved.ac/npole0103) Class 1 은장 달성**
+*22.06.17.* **2022  SW능력우수 장학생**
 
 ### 2021
 
@@ -158,6 +115,8 @@
 
 *21.07.13.* **2021-1 소프트웨어학부 학과 차석**
 
+*21.07.20.* **2021 상반기 SW능력우수 장학생**
+
 *21.08.10. ~ 21.08.22.* **BoB 서브 프로젝트 : C# Python 기반 와샥와샥(WireShark) 패킷 분석 툴 만들기 [README.md](https://github.com/npole0103/WaSharkWaShark)**
 
 *21.09.01. ~ 21.12.15.* **Java Design Pattern 공부 [README.md](https://github.com/npole0103/designPattern)**
@@ -168,21 +127,73 @@
 
 *21.10.15. ~ 22.05.26* **산학연계 SW프로젝트 : 전사 F/W, LIB, 공통시스템, PMS를 이용한 대학 SaaS 서비스 구축 [README.md](https://github.com/sofAware/slas)**
 
-### 2022
+### 2020
 
-*22.01.01. ~ 22.03.24.* **Java Spring 공부**
+*20.02.--.* **중대 상벌점 엑셀 개발 : 월간 주간 상벌점 / 상벌점 사유 기록란 추가 / 대대 상벌점 위원회용 시트**
 
-*22.01.03. ~ 22.01.07.* **광운대학교 소프트웨어융합대학 2022년도 겨울SW학교 Tutor**
+*20.04.--.* **중대 위병수호자 엑셀 유지보수 : 군생활 단축에 따른 계급/입대일 별 자동 호봉 계산기 기능 추가**
 
-*22.01.03.* **[Solved.ac](https://solved.ac/npole0103) GOLD 달성**
+*20.05.--.* **중대 당직수호자 엑셀 유지보수 : 11생활관 추가 / 군생활 계산기 및 총기연명부 수식 추가**
 
-*22.01.12.* **2021-2 소프트웨어학부 학과 수석**
+*20.06.--.* **중대 위병수호자 엑셀 유지보수 : 급양 월간표준식단 파일 크롤링 -> 오늘의 메뉴 조식 중식 석식 기능 추가 / 조기전역 계산기 추가**
 
-*22.03.23.* **정보처리기사 필기 합격**
+*20.07.29.* **대대 급양관리 시스템 엑셀 VBA프로그래밍 유지보수 : 1군수여단 급양 파일 크롤링 -> 표준 식품 데이터로 가공 및 표준화 -> 대대 월간/주간 배식량 및 Kcal 계산**
 
-*22.04.04. ~ 22.04.29.* **광운인공지능고등학교 교생실습생(정보·컴퓨터)**
+*20.10.05.(20.11.22.)* **대한민국 육군 병장 만기 전역**
 
-*22.05.02.* **2022년 상반기 SW포트폴리오 경진대회 대상 수상**
+*20.12.08.* **Github 개념 및 명령어 학습**
+
+*20.12.09.* **Markdown 언어 학습 [README.md](https://github.com/npole0103/markdownDocs)** 
+
+*20.12.10. ~ 20.12.13.* **snakeGame 프로젝트 [README.md](https://github.com/npole0103/snakeGame)**
+
+*20.12.14. ~ 20.12.17.* **HTML 기초 학습 [README.md](https://github.com/npole0103/htmlStudy)**
+
+*20.12.18. ~ 20.12.22.* **CSS 기초 학습 및 웹페이지 제작 실습 [README.md](https://github.com/npole0103/cssStudy)**
+
+*20.12.23. ~ 21.01.11.* **JavaScript 기초 학습 및 jQuery Bootstrap 라이브러리 실습 [README.md](https://github.com/npole0103/jsStudy)**
+
+*20.12.30.* **[Solved.ac](https://solved.ac/npole0103) Class 1 은장 달성**
+
+### 2019
+
+*19.01.02. ~ 19.01.04.* **한국과학창의재단 주관 하반기 쏙쏙캠프 - 파주 운정초등학교 팀장**
+
+*19.02.20.* **광운대학교 교직과정 본신청 이수예정자 확정**
+
+*19.04.22.* **대한민국 육군 제9보병사단 백마신교대 입대**
+
+*19.04.30.* **Dean's List 선정 학업우수상 수상**
+
+*19.08.30.* **정보처리산업기사 필기 합격**
+
+*19.11.--.* **중대 위병수호자 엑셀 개발 : 군생활 계산기 / 중대인명부 관리**
+
+### 2018
+
+*18.01.01. ~ 18.12.31.* **제2대 소프트웨어융합대학 학생회 For 기획국원**
+
+*18.04.11.* **정보처리기능사 취득**
+
+*18.05.02. ~ 18.07.11.* **한국과학창의재단 주관 알락달락 - 중랑 중흥초등학교 팀장**
+
+*18.05.25. ~ 18.10.24.* **광운대학교 총동문회 사무국원**
+
+*18.07.25. ~ 18.07.27.* **한국과학창의재단 주관 상반기 쏙쏙캠프 - 오산 원당초등학교 팀원**
+
+*18.08.16. ~ 18.10.31.* **정보통신산업진흥원 주관 2018 공개 SW 컨트리뷰톤 수료**
+
+### 2017
+
+*17.02.09.* **진주 대아고등학교 졸업**
+
+*17.03.02.* **광운대학교 소프트웨어학부 입학**
+
+*17.03.02. ~ 17.12.31.* **제1대 소프트웨어학부 학생회 Hash 홍보국원**
+
+*17.06.22.* **세종대학교 정보보호와 보안의 기초 이수**
+
+*17.09.08.* **광운대학교 교직과정 예비신청**
 
 <!--
 *--.--.--. ~ ing* **후니의 CISCO 네트워킹 [README.md](https://github.com/npole0103/networkStudy)**
@@ -204,9 +215,9 @@
 - [ ] **Baekjoon Class 4 은장**
 - [ ] **토익 | 오픽 응시**
 - [ ] **교직과정 수료 및 교원자격증 취득**
-- [ ] **정보처리기사 취득**
+- [x] **정보처리기사 취득**
 - [ ] **대규모 프로젝트 3개 이상**
-- [ ] **공모전 입상**
+- [x] **공모전 입상**
 
 ---
 ## My GITHUB Status :book:
