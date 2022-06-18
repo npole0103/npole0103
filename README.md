@@ -87,6 +87,8 @@
 
 *22.06.17.* **2022년 상반기 SW능력우수 장학생**
 
+*22.07.01. ~ 22.08.31.* **(주)세나클소프트 Backend Server 개발 인턴 [HOME](https://cenacle.com/)**
+
 ### 2021
 
 *21.01.03.* **[Solved.ac](https://solved.ac/npole0103) Class 2 은장 달성**
