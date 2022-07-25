@@ -42,7 +42,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 #### [ IDE ]
@@ -57,9 +59,10 @@
 </div>
 
 💬Interests :  
-* **Back-End**  
-* **Amazon AWS**  
-* **Huge Traffic Handling**  
+* **Backend**  
+* **Cloud**  
+* **Huge Data/Traffic Handling** 
+* **CI/CD**
 
 💬Email : **npole0103@naver.com**
 
@@ -222,7 +225,7 @@
 - [ ] **토익 | 오픽 응시**
 - [ ] **교직과정 수료 및 교원자격증 취득**
 - [x] **정보처리기사 취득**
-- [ ] **대규모 프로젝트 3개 이상**
+- [x] **대규모 프로젝트 3개 이상**
 - [x] **공모전 입상**
 
 ---
