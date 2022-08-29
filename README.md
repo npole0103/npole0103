@@ -57,6 +57,7 @@
 ####  [ Team Collaboration Tool ]
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
 </div>
 
 💬Interests :  
@@ -96,6 +97,8 @@
 *22.06.22. ~ 22.06.24.* **2022 SW중심대학 공동해커톤 : 비즈니스 명함 관리 플랫폼 '비즈니스.zip' 백엔드 API 개발 [README.md](https://github.com/BusinessZIP/businesszip-backend)**
 
 *22.07.01. ~ 22.08.31.* **(주)세나클소프트 Backend Server 개발 인턴 [HOME](https://cenacle.com/)**
+
+*22.08.03. ~ ing* **2022 제16회 공개SW 개발자대회 마크다운 팀 ALREADYME.md - Backend [README.md](https://github.com/readme-generator)**
 
 ### 2021
 
