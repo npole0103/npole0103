@@ -92,7 +92,7 @@
 
 *22.07.01. ~ 22.08.31.* **(주)세나클소프트 Backend Server 개발 인턴 [HOME](https://cenacle.com/)**
 
-*22.08.03. ~ ing* **2022 제16회 공개SW 개발자대회 마크다운 팀 ALREADYME.md - Backend [README.md](https://github.com/readme-generator)**
+*22.08.03. ~ 22.11.09.* **2022 제16회 공개SW 개발자대회 마크다운 팀 ALREADYME.md - Backend [README.md](https://github.com/readme-generator)**
 
 *22.10.28. ~ 22.10.28.* **2022-1 Dean's List 선정 학업우수상 수상**
 
