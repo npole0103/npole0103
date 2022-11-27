@@ -62,9 +62,6 @@
 
 💬Interests :  
 * **Backend**  
-* **Cloud**  
-* **Huge Data/Traffic Handling** 
-* **CI/CD**
 
 💬Email : **npole0103@naver.com**
 
