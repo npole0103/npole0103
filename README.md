@@ -11,8 +11,6 @@
 
 💬Education : **Undergraduate Student in School of Software, Kwangwoon University**
 
-💬Age : **25**
-
 💬Teck Skills : 
 
 <div align=center>
