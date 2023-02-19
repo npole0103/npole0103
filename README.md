@@ -61,8 +61,6 @@
 
 💬Email : **npole0103@naver.com**
 
-💬Website : [Instagram](http://instagram.com/ssu.__.hxxn_) [Solved.ac](http://solved.ac/npole0103)
-
 ---
 ## BRIEF HISTORY BY YEAR 📅
 
