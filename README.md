@@ -100,7 +100,7 @@
 
 *22.11.11. ~ 22.11.11.* **2022학년도 소프트웨어학부 졸업전시회 장려상**
 
-*22.11.14. ~ 22.11.14.* **2022년 제16회 공개SW 개발자대회 금상(정보통신산업진흥원장상) [README.md](https://github.com/readme-generator/alreadyme-backend)**
+*22.11.14. ~ 22.11.14.* **2022년 제16회 공개SW 개발자대회 금상(정보통신산업진흥원장상) [README.md](https://www.oss.kr/dev_competition_activities/show/ef4e4e94-9ec9-4f82-a593-d978231abbee)**
 
 ### 2021
 
