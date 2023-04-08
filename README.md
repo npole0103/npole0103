@@ -70,15 +70,6 @@
 💬Email : **npole0103@naver.com**
 
 ---
-
-## Goal by Life
-
-- [ ] **영어 회화**
-- [ ] **경제 공부**
-- [ ] **30살 안에 1억**
-- [ ] **대학원 진학**
-
----
 ## My GITHUB Status :book:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=npole0103&show_icons=true)
 
