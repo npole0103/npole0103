@@ -14,10 +14,12 @@
 💬Career :
 
 - *23.04.03. ~ ing*
-  - **NICE Information & Telecommunication, Backend Developer(GIFT CARD SERVICE, TAX REFUND SERVICE) [HOME](https://www.nicevan.co.kr/)**
+  - **NICE Information & Telecommunication, Backend Developer [HOME](https://www.nicevan.co.kr/)**
+  - **GIFT CARD SERVICE, TAX REFUND SERVICE**
 
 - *22.07.01. ~ 22.08.31.*
-  - **Cenacle Soft, Backend Server Developer Intern(MEDICAL INFORMATION MONITORING SERVICE) [HOME](https://cenacle.com/)**
+  - **Cenacle Soft, Backend Server Developer Intern [HOME](https://cenacle.com/)**
+  - **MEDICAL INFORMATION MONITORING SERVICE**
 
 💬Teck Skills : 
 
